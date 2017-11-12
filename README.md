@@ -6,6 +6,6 @@ This is a webpage about me. I have primarily used HTML and CSS.
 2. In the Profile page, you can download my resume by clicking on "Download Resume".
 3. You can click on "Bhargavi Kunapareddy" logo on the header to navigate to home page.
 
-# You can get a preview of my homepage by clicking on the link below:
+# You can get a preview of my homepage using the link below:
 https://htmlpreview.github.io/?https://raw.githubusercontent.com/Bhargavikunapa/ResumeWebpage/master/home.html
 
