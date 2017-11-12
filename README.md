@@ -1,5 +1,5 @@
 # ResumeWebpage
-This is a webpage about me. I have used primarily used HTML and CSS. 
+This is a webpage about me. I have primarily used HTML and CSS. 
 
 # Features to look out for:
 1. When you hover over images, I have added CSS elements to make them a little responsive.
